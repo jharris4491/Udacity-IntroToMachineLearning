@@ -1,0 +1,2 @@
+I removed the test set for space reasons. Run tools/setup.py to download it again before executing.
+The results are saved though in results.txt
