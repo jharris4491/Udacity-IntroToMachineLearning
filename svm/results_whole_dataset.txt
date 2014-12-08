@@ -1,0 +1,6 @@
+no. of Chris training emails: 7936
+no. of Sara training emails: 7884
+Accuracy: 
+0.984072810011
+Training Time: 167.738157988 s
+Classification Time: 17.1174230576 s
