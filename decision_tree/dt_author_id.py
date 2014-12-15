@@ -27,10 +27,10 @@ features_train, features_test, labels_train, labels_test = preprocess()
 #########################################################
 ### your code goes here ###
 from sklearn import tree
-classifier = tree.DecisionTreeClassifier()
+classifier = tree.DecisionTreeClassifier(min_samples_split=40)
 classifier.fit(features_train, labels_train)
 print "Accuracy: " + str(classifier.score(features_test, labels_test))
-
+print "Features: " + str(len(features_train[0]))
 #########################################################
 
 
