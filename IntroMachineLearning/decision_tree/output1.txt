@@ -1,0 +1,4 @@
+no. of Chris training emails: 7936
+no. of Sara training emails: 7884
+Accuracy: 0.967007963595
+Features: 379
